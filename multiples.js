@@ -13,4 +13,4 @@ for(var i = 0; i < n; i++){
 
   return sum;
 };
-exports.sumOfAMultiple(10);
+console.log(exports.sumOfAMultiple(10000));
